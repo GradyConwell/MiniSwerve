@@ -1,17 +1,15 @@
 # MiniSwerve
 A modular mini swerve drive designed to be lower cost than traditional robot drive trains
 
-Optimized for use in an FTC drivetrain.
+Ideal for use in an FTC drivetrain.
 
 Features:
 - Fully functional differential Swerve
 - Homing to initialize system
-- custom printed acetal bevel gears
-- Low Cost bearings selected specifically for their availability
+- designed to use printed ABS bevel gears, use Nylon for best performance
+- Low Cost bearings selected specifically for their availability, and price
 - Custom Wheels
 - CNC machined plates
 - Modular Mounting & provisions for quickswapping modules
-- single module function capable (optimized for dual modules, capable of up to 3 for FTC)
-
-*CURRENTLY UNDER DEVELOPMENT - NON-RELEASED CONTENT IS NOT VERIFIED TO BE FUNCTIONAL, USE AT YOUR OWN RISK* 
+- Use 2 or more modules, system is optimized for 2, although 3 might give more versatility.
 
