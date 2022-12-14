@@ -1,5 +1,5 @@
 # MiniSwerve
-A modular mini swerve drive designed to be lower cost than traditional robot drive trains
+A modular mini swerve drive designed to be lower cost than traditional advanced robot drive trains
 
 Ideal for use in an FTC drivetrain.
 
