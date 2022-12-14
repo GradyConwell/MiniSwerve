@@ -13,3 +13,4 @@ Features:
 - Modular Mounting & provisions for quickswapping modules
 - Use 2 or more modules, system is optimized for 2, although 3 might give more versatility.
 
+© Grady Conwell 2022
