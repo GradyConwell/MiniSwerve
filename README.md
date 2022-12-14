@@ -5,7 +5,7 @@ Ideal for use in an FTC drivetrain.
 
 Features:
 - Fully functional differential Swerve
-- Homing to initialize system
+- Absolute positioning when using closed loop motors
 - designed to use printed ABS bevel gears, use Nylon for best performance
 - Low Cost bearings selected specifically for their availability, and price
 - Custom Wheels
